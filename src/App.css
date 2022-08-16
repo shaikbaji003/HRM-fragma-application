@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+*{
+    /* background: linear-gradient(10deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%) !important; */
+
+ background-color: #FFFAFA;
+ /* background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%); */
+ /* background-image: linear-gradient(to right, #870000, #190a05); */
+
+ /* background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500); */
+   
+ /* background-image: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% ); */
+
+
+     /* background: -webkit-linear-gradient(left, grey, grey 30%, white 30%, white); */
+
+}
